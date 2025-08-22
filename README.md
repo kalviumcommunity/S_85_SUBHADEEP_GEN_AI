@@ -1,12 +1,12 @@
-# GEN_AI
+# GEN\_AI
 
-GEN_AI is an AI-powered system that uses adaptive prompt-based sorting to organize and process data efficiently.
+GEN\_AI is a simple AI chatbot project that demonstrates prompt-based responses with different levels of complexity. It is designed as a college project to showcase how generative AI can handle various types of queries using minimal to more elaborate prompts.
 
 ## Features
 
-* **Adaptive Sorting:** Handles different levels of sorting complexity.
-* **Prompt-Based Logic:** Uses generative AI to process and organize data.
-* **Scalable Design:** Can be extended for various use cases.
+* **Interactive Chatbot:** Responds to user queries.
+* **Prompt-Based Responses:** Handles simple, moderate, and complex prompts.
+* **Lightweight Design:** Built using HTML, CSS, and JavaScript.
 
 ## Getting Started
 
@@ -17,19 +17,19 @@ GEN_AI is an AI-powered system that uses adaptive prompt-based sorting to organi
 
 ### Usage
 
-Open the `index.html` file in any web browser to run the project.
+Open the `index.html` file in any web browser to start chatting with the bot.
 
 ## Project Structure
 
 ```
-├── index.html         # Entry point of the project
-├── styles.css         # Styling for the project
-├── script.js          # Logic and sorting mechanisms
+├── index.html         # Entry point of the chatbot
+├── styles.css         # Chatbot styling
+├── script.js          # Chatbot logic and prompt handling
 └── README.md          # Project documentation
 ```
 
 ## Future Enhancements
 
-* Support for larger datasets
-* Improved UI/UX
-* Integration with external APIs
+* Better response handling with AI APIs
+* Improved UI and animations
+* Multi-user chat support
